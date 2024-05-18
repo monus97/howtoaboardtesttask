@@ -1,0 +1,13 @@
+/* SearchCourse.css */
+.search-course-page {
+    display: flex;
+    padding: 10px;
+  }
+  
+  /* Mobile styles */
+  @media (max-width: 768px) {
+    .search-course-page {
+      flex-direction: column;
+    }
+  }
+  
